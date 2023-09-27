@@ -2,3 +2,7 @@
   font-family: 'Fahkwang Serif';
   src: url('fahkwang.ttf') format('truetype');
 }
+
+h1 {
+  font-family: 'Fahkwang Serif', serif; 
+}
